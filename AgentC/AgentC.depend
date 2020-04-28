@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584699465 source:c:\users\oruganti ramakrishna\desktop\masters\587-network programming\agentc\main.c
+	<stdio.h>
+	<jni.h>
+	<time.h>
+	<CmdAgentImpl.h>
+

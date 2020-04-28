@@ -1,0 +1,5 @@
+EXPORTS
+    Java_CmdAgentImpl_C_1GetLocalOS = Java_CmdAgentImpl_C_1GetLocalOS@12 @1
+    Java_CmdAgentImpl_C_1GetLocalOS@12 @2
+    Java_CmdAgentImpl_C_1GetLocalTime = Java_CmdAgentImpl_C_1GetLocalTime@12 @3
+    Java_CmdAgentImpl_C_1GetLocalTime@12 @4
