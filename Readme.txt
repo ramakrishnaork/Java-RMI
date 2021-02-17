@@ -1,4 +1,4 @@
-Hi,
+Grad Project for Networking
 
 I have developed the java code using Eclipse IDE and executed it in the same. I set the prefrences for all in the IDE.
 For windows I have to start rmiregistry in source folder where all java files are located. 
